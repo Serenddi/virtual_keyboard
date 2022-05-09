@@ -7,7 +7,7 @@ let info = document.createElement('img');
 info.classList.add('info');
 info.title = 'Keyboard was created in Windows. For changing the language: shift + alt. Клавиатура создана в системе Windows. Для смены языка: shift + alt. '
 document.body.prepend(info);
-info.src = '/assets/info.png'
+info.src = 'assets/info.png'
 
 //create the main div
 
